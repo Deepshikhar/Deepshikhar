@@ -33,6 +33,15 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhar&" alt="deepshikhar" /></p>
 -->
+<h3 align="left">GitHub Stats:</h3>
+<p>
+   <a href="https://img.shields.io/github/followers/deepshikhar?label=Follow&style=social">
+      <img alt="Coverage" src="https://img.shields.io/github/followers/deepshikhar?label=Follow&style=social" height="25">
+   </a>
+   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=deepshikhar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
+   <img alt="Last Update" src="https://img.shields.io/github/last-commit/deepshikhar/deepshikhar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepshikhar-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepshikhar gupta" height="30" width="40" /></a>
