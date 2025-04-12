@@ -27,12 +27,8 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-stats-deepshikhar.vercel.app/api/top-langs?username=deepshikhar&show_icons=true&locale=en&layout=compact" alt="deepshikhar" /></p>
-<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshikhar&show_icons=true&locale=en&layout=compact" alt="deepshikhar" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhar&" alt="deepshikhar" /></p>
--->
 <h3 align="left">GitHub Stats:</h3>
 <p>
    <a href="https://img.shields.io/github/followers/deepshikhar?label=Follow&style=social">
