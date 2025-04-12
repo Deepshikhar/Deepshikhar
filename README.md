@@ -53,10 +53,17 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepshikhar&theme=chartreuse-dark&hide_border=true" />
 </p>
 
-<h3 align="center">Annual Contribution Graph</h3>
+
+
+<h3 align="center">GitHub Contribution Graph</h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/Deepshikhar" alt="Annual GitHub Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepshikhar&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepshikhar&theme=github" alt="GitHub Contribution Details" width="100%"/>
+</p>
+
 
 ---
 
